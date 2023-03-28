@@ -1,22 +1,5 @@
-<h1 align="center">
-<img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-  <br>
-  Projeto: Alura Play
-</h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
-<br>
-
-<h2>🖥️ Tela principal: </h2>
-<p align="center">
-<img src="./img/tela.png" alt="Logo do canal Alura Cursos Online">
-</p>
-
-<br>
 
 ## ✨ Tecnologias
 
