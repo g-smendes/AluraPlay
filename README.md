@@ -1,18 +1,44 @@
+<h1 align="center">
+<img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+  <br>
+  Projeto: Alura Play
+</h1>
 
-<hr>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-<h1>AluraCast</h1>
-<p align="start">Uma página estática inspirada em uma plataforma de streamming de músicas e podcasts.</p>
+<br>
 
-## Tecnologias
-* HTML
-* CSS
+<h2>🖥️ Tela principal: </h2>
+<p align="center">
+<img src="./img/tela.png" alt="Logo do canal Alura Cursos Online">
+</p>
 
-## 1400px
-![image](https://user-images.githubusercontent.com/76708357/182976289-0051ae84-25ec-4a2e-a38e-4713c3a313b0.png)
+<br>
 
-## 1024px
-![image](https://user-images.githubusercontent.com/76708357/182976352-8232587d-98ce-4fe1-8d0f-dde6569f4a0b.png)
+## ✨ Tecnologias
 
-## 360px
-![image](https://user-images.githubusercontent.com/76708357/182976395-46bb66b5-f1f8-4db5-84eb-4151d225579d.png)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Videos com links incorporados do Youtube
+
+<br>
+
+## 💻 Projeto
+
+<p align="center">
+Esse projeto consiste em uma aplicação para estudos na prática de funcionamento do Flexbox e layouts responsivos.
+
+</p>
+ 
+<br> 
+ 
+
+
+---
+<br>
+<br>
